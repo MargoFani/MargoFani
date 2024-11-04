@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Hi there, I'm Margo</h1>
-<h3>Junior Unity Developer</h3>
+<h3>Java Backend Developer</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/FunMargo">
@@ -18,12 +18,10 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Unity Developer
+I am a Java Backend Developer
 - :telescope: I'm currently working on game development, mostly on unity engine. 
 
 - :seedling: Exploring The Art Of Game Design, Jesse Schell.
-
-- :zap: Finalist of the competition "Start The Game. Season 2"
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/FunMargo)
 
