@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 I am a Game Developer
-- :telescope: I'm currently working on game development, mostly on unity engine. 
+- :telescope: I'm currently working on game development, mostly on unity engine. [My last project repo](https://github.com/MargoFani/Kitchen-Chaos)
 
 - :seedling: Exploring The Art Of Game Design, Jesse Schell.
 
